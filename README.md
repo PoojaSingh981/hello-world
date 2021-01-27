@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi Humans!
+Pooja here, I like learning new things. 
